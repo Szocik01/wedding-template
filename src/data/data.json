@@ -1,0 +1,144 @@
+{
+  "names": "Michalina i Wiktor",
+  "date": "2025-08-23T14:00:00",
+  "bride": {
+    "name": "Anna Kowalska",
+    "description": "Anna is a talented graphic designer with a passion for art and creativity."
+  },
+  "groom": {
+    "name": "Jan Nowak",
+    "description": "Jan is a software engineer who loves coding and solving complex problems."
+  },
+  "weddingTimeline": [
+    {
+      "time": "15:00",
+      "description": "Ceremony at the church"
+    },
+    {
+      "time": "17:00",
+      "description": "Reception at the wedding hall"
+    },
+    {
+      "time": "19:00",
+      "description": "Dinner is served"
+    },
+    {
+      "time": "21:00",
+      "description": "First dance"
+    },
+    {
+      "time": "23:00",
+      "description": "Cake cutting"
+    }
+  ],
+  "weddingLocation": {
+    "name": "St. Mary's Church",
+    "address": "123 Church St, Warsaw, Poland",
+    "phone": "+48 22 123 4567"
+  },
+  "receptionLocation": {
+    "name": "Royal Wedding Hall",
+    "address": "456 Reception Ave, Warsaw, Poland",
+    "phone": "+48 22 765 4321"
+  },
+  "planEntries": [
+    {
+      "date": "2025-08-22",
+      "title": "Accommodation",
+      "description": "We have reserved a block of rooms at the Grand Hotel for our guests. Please mention the wedding when booking to receive a discount."
+    },
+    {
+      "date": "2025-08-23",
+      "title": "Transportation",
+      "description": "We will provide a shuttle service from the hotel to the church and reception hall. Please let us know if you require transportation."
+    },
+    {
+      "date": "2025-08-24",
+      "title": "Dress Code",
+      "description": "The dress code for the wedding is formal attire. Please dress accordingly for the ceremony and reception."
+    },
+    {
+      "date": "2025-08-25",
+      "title": "Gifts",
+      "description": "Your presence at our wedding is the greatest gift of all. However, if you wish to give a gift, we have a gift registry at Macy's."
+    }
+  ],
+  "contactInformation": [
+    {
+      "firstName": "Anna",
+      "lastName": "Kowalska",
+      "role": "Bride",
+      "photoUrl": "/images/bridesmaid-1.webp",
+      "phone": "+48 123 456 789"
+    },
+    {
+      "firstName": "Jan",
+      "lastName": "Nowak",
+      "role": "Groom",
+      "photoUrl": "/images/groom-men-1.webp",
+      "phone": "+48 123 456 789"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Kowalska",
+      "role": "Bride's Mother",
+      "photoUrl": "/images/bridesmaid-4.webp",
+      "phone": "+48 123 456 789"
+    },
+    {
+      "firstName": "Piotr",
+      "lastName": "Kowalski",
+      "role": "Bride's Father",
+      "photoUrl": "/images/groom-men-4.webp",
+      "phone": "+48 123 456 789"
+    },
+    {
+      "firstName": "Ewa",
+      "lastName": "Nowak",
+      "role": "Groom's Mother",
+      "photoUrl": "/images/bridesmaid-1.webp",
+      "phone": "+48 123 456 789"
+    },
+    {
+      "firstName": "Tomasz",
+      "lastName": "Nowak",
+      "role": "Groom's Father",
+      "photoUrl": "/images/groom-men-1.webp",
+      "phone": "+48 123 456 789"
+    },
+    {
+      "firstName": "Katarzyna",
+      "lastName": "Wiśniewska",
+      "role": "Maid of Honor",
+      "photoUrl": "/images/bridesmaid-4.webp",
+      "phone": "+48 123 456 789"
+    },
+    {
+      "firstName": "Marek",
+      "lastName": "Kowalczyk",
+      "role": "Best Man",
+      "photoUrl": "/images/groom-men-4.webp",
+      "phone": "+48 123 456 789"
+    }
+  ],
+  "events": {
+    "ceremony":{
+      "name": "The Ceremony",
+      "date": "Saturday, 28, 2019",
+      "time": "02:00 pm - 10:00 pm",
+      "location": "203 Fake St. Mountain View, San Francisco, California, USA",
+      "contact": "+0 (123) 456 78 910"
+    },
+    "reception":{
+      "name": "The Reception",
+      "date": "Saturday, 28, 2019",
+      "time": "02:00 pm - 10:00 pm",
+      "location": "203 Fake St. Mountain View, San Francisco, California, USA",
+      "contact": "+0 (123) 456 78 910"
+    }
+  },
+  "numbers": {
+    "bridePhoneNumber": "123-456-789",
+    "groomPhoneNumber": "987-654-321"
+  }
+}

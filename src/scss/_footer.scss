@@ -1,0 +1,30 @@
+footer {
+  padding: 4rem 0 2rem 0;
+  background-color: $color-decoration-text;
+  color: $color-primary-background;
+  font-size: 16px;
+  h3 {
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .nav-item {
+    margin-bottom: 0.75rem;
+    font-weight: 500;
+  }
+  .number-entry {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    margin-bottom: 0.75rem;
+    font-weight: 500;
+
+    .number {
+      color: transparentize($color: $color-primary-background, $amount: 0.2);
+    }
+  }
+  .attribution{
+    text-align: center;
+  }
+}

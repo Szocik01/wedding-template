@@ -1,0 +1,24 @@
+$color-primary:#f0d9e8;
+$color-primary-variant: #cb7fb1;
+$color-primary-background:#ffffff;
+$color-navbar-background: #f0d9e8;
+$color-on-primary:#000000;
+$color-secondary-background:#f1f3f4;
+$color-primary-text:#000000;
+$color-secondary-text:#999999;
+$color-decoration-text:#d291bc;
+$color-card-background:#ffffff;
+
+$navbar-height: 70px;
+$navbar-mobile-height: 90px;
+
+
+$sm-min: 576px !default;
+$md-min: 768px !default;
+$lg-min: 992px !default;
+$xl-min: 1200px !default;
+
+$xs-max: ($sm-min - 1);
+$sm-max: ($md-min - 1);
+$md-max: ($lg-min - 1);
+$lg-max: ($xl-min - 1);
