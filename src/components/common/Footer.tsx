@@ -38,7 +38,7 @@ const Footer = (props:FooterProps) => {
               </a>
             </div>
             <div className="nav-item">
-              <a href="#location" className="nav-link">
+              <a href="#when-and-where" className="nav-link">
                 Gdzie i kiedy
               </a>
             </div>

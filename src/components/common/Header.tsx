@@ -34,12 +34,12 @@ const Header = () => {
           </a>
         </div>
         <div className="nav-item">
-          <a href="" className="nav-link">
+          <a href="#contact" className="nav-link">
             Kontakt
           </a>
         </div>
         <div className="nav-item">
-          <a href="" className="nav-link">
+          <a href="#when-and-where" className="nav-link">
             Gdzie i kiedy
           </a>
         </div>
